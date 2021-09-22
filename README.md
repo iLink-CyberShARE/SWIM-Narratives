@@ -20,11 +20,17 @@ database for processing. SWIM's database is currently managed with an instance o
 Visit: http://purl.org/swim/services/nlng
   
 ## Contributors
-+ Alejandro Vargas - ravargasaco@miners.utep.edu
-+ Luis Garnica - luis@gitgudconsulting.com
++ Alejandro Vargas (UTEP)
++ Luis Garnica (UTEP)
 
-## Sponsor
-This material is based upon work supported by the United States Department of Agriculture under Grant No. 2015-68007-23130
+## Acknowledgements
+This material is based upon work supported by the United States Department of Agriculture under Grant No. 2015-68007-23130.
+This work used resources from Cyber-ShARE Center of Excellence supported by NSF Grant HDR-1242122.
 
-## Institution
-+ University of Texas at El Paso
+Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+
+## License
+GNU GENERAL PUBLIC LICENSE 3.0
+
+## Copyright
+Copyright © 2015-2021 University of Texas at El Paso (Water Sustainability Project)
